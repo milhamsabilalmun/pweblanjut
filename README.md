@@ -48,18 +48,6 @@ Untuk login aplikasi silakan masukkan username dan password berikut
 |----------|-------------|
 | Password | admin       |
 
-## Screenshot
-<img src="https://github.com/iqbaleff214/aplikasi-pembayaran-spp/blob/main/screenshots/ss-1.png" alt="screenshot aplikasi">
-
-<br>
-
-<img src="https://github.com/iqbaleff214/aplikasi-pembayaran-spp/blob/main/screenshots/ss-2.png" alt="screenshot aplikasi">
-
-<br>
-
-<img src="https://github.com/iqbaleff214/aplikasi-pembayaran-spp/blob/main/screenshots/ss-3.png" alt="screenshot aplikasi">
-
-
 ## License / Lisensi
 
 Berlisensi di bawah [MIT license](https://github.com/iqbaleff214/aplikasi-pembayaran-spp/blob/main/LICENSE).
