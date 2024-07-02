@@ -44,7 +44,7 @@ Setelah perintah di atas dijalankan, web app Anda bisa sudah bisa diakses
 ## Login
 Untuk login aplikasi silakan masukkan username dan password berikut
 
-| Username | iqbaleff214 |
+| Username | cobasaja |
 |----------|-------------|
 | Password | admin       |
 
