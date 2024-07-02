@@ -25,10 +25,12 @@ Route::get('/student/login', [PageController::class, 'login'])->name('guest.logi
 Route::post('/student/login', [PageController::class, 'authentication'])->name('guest.auth');
 Route::post('/student/logout', [PageController::class, 'logout'])->name('guest.logout');
 Route::get('/student/{student}/history', [PageController::class, 'history'])->name('guest.history');
+Route::post('payment/{student}', [PaymentController::class, 'store'])->name('payment.store');
+
 
 
 Route::middleware('auth')->group(function () {
-    Route::get('/', [PageController::class, 'index'])
+    Route::get('/abc', [PageController::class, 'index'])
         ->name('dashboard');
 
     Route::get('payment/{student}', [PaymentController::class, 'index'])
