@@ -8,7 +8,11 @@ export default defineConfig({
                 'resources/css/app.css',
                 'resources/js/app.js',
             ],
-            refresh: true,
+            manifest: true, // Aktifkan manifest untuk mencatat file yang dibundle
         }),
     ],
+    build: {
+        outDir: 'public/build', // Pastikan outDir sesuai dengan struktur proyek Anda
+        emptyOutDir: true, // Kosongkan direktori output sebelum membangun ulang
+    },
 });

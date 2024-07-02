@@ -20,8 +20,8 @@ class DatabaseSeeder extends Seeder
         Grade::factory()->count(100)->create();
 
         User::create([
-            'name' => 'M Iqbal Effendi',
-            'username' => 'iqbaleff214',
+            'name' => 'M. ilham sabilal muna',
+            'username' => 'cobasaja',
             'password' => Hash::make('admin'),
             'role' => Role::ADMIN,
         ]);
