@@ -4,7 +4,7 @@
 ## Aplikasi Pembayaran SPP
 
 ## Database Schema / Skema Database
-<img src="https://github.com/iqbaleff214/aplikasi-pembayaran-spp/blob/main/screenshots/database.png" alt="database schema">
+<img src="git clone https://github.com/milhamsabilalmun/pweblanjut.git">
 
 ## Installation / Instalasi
 Pastikan versi php Anda telah mendukung Laravel 10. Setelah repo ini diclone, bukalah CLI dan posisikan direktori aktif ke repo ini.
@@ -50,5 +50,5 @@ Untuk login aplikasi silakan masukkan username dan password berikut
 
 ## License / Lisensi
 
-Berlisensi di bawah [MIT license](https://github.com/iqbaleff214/aplikasi-pembayaran-spp/blob/main/LICENSE).
+Berlisensi di bawah [MIT license](git clone https://github.com/milhamsabilalmun/pweblanjut.git).
 # uaspwl
