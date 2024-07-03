@@ -50,5 +50,5 @@ Untuk login aplikasi silakan masukkan username dan password berikut
 
 ## License / Lisensi
 
-Berlisensi di bawah [MIT license](https://github.com/milhamsabilalmun/pweblanjut.git).
+Berlisensi di bawah [MIT license]("https://github.com/milhamsabilalmun/pweblanjut.git").
 # uaspwl
