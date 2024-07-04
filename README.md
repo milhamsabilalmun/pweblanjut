@@ -52,3 +52,11 @@ Untuk login aplikasi silakan masukkan username dan password berikut
 
 Berlisensi di bawah [MIT license]("https://github.com/milhamsabilalmun/pweblanjut.git").
 # uaspwl
+M. ilham Sabilal Muna
+221240001223
+
+Sahrul Firmanda Andreansyah
+221240001262
+
+Faiq Taufiqurohman
+221240001341
